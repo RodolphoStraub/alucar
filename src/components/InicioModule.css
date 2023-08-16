@@ -1,0 +1,27 @@
+.wrapperinicioall {
+  height: 950px;
+  background-image: url(https://www.financialexpress.com/wp-content/uploads/2022/04/Range-Rover-Velar-HST-Front-3-Quarters.jpg?w=1024);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrapperinicioleft {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title{
+    font-size: 48px;
+    margin-top: 150px;
+}
+
+.text{
+    font-size: 36px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.subtext{
+    font-size: 22px;
+}
