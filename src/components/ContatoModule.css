@@ -1,0 +1,74 @@
+.contatoall {
+  background-color: rgb(91, 93, 97);
+  height: 250px;
+  display: flex;
+  scroll-margin-top: 200px;
+}
+
+.contatoleft,
+.contatoright {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contatoleft {
+  margin-left: 15%;
+  text-align: justify;
+}
+
+.contatoright {
+  margin-right: 15%;
+  text-align: justify;
+}
+
+.contatomid {
+  width: 60%;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 16px;
+}
+
+.phone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.contatomid img {
+  width: 28px;
+  border-radius: 50%;
+}
+
+.conttitle {
+  margin-bottom: 16px;
+  color: white;
+}
+
+.context{
+    color: rgb(199, 199, 199);
+}
+
+.mail {
+  margin-bottom: 12px;
+  color: white;
+}
+
+.numbertext {
+  margin-bottom: 6px;
+  color: white;
+}
+
+.number{
+    color: white;
+}

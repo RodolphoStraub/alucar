@@ -34,7 +34,7 @@ const Navbar = (props: Props) => {
           </Link>
         </li>
         <li>
-          <Link className="contato" href="/contato">
+          <Link className="contato" href="#contato">
             Contato
           </Link>
         </li>

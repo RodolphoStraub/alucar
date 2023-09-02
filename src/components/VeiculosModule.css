@@ -1,0 +1,79 @@
+.veiculosall {
+  background-image: url(https://img.freepik.com/premium-photo/empty-underground-parking-generative-ai_845977-1475.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1250px;
+}
+
+.veiculotitle {
+  display: flex;
+  justify-content: center;
+  color: rgb(230, 198, 60);
+}
+
+.titlecars {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.carcards {
+  display: flex;
+  flex-wrap: wrap;
+  width: 350px;
+  height: 450px;
+  padding: 22px;
+  border-radius: 12px;
+  background-color: rgb(255, 255, 255);
+}
+
+.allcards2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 15%;
+    width: 70%;
+    gap: 36px;
+}
+
+.cardtitle {
+  margin-bottom: 32px;
+}
+
+.pricebg {
+  width: 120px;
+  background-color: rgb(230, 198, 60);
+  padding: 10px;
+}
+
+.price1 {
+  font-size: 20px;
+}
+
+.price2 {
+  font-size: 24px;
+}
+
+.iconcarleft {
+  display: flex;
+  flex-direction: column;
+  margin-left: 80px;
+}
+
+.assentos,
+.portas,
+.arcondi {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.iconcarleft img {
+  width: 32px;
+  margin-right: 6px;
+}
+
+.carimage {
+  margin-top: 35px;
+  width: 325px;
+  height: 190px;
+}
