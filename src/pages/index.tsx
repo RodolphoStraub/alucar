@@ -7,7 +7,7 @@ import { Inter } from 'next/font/google'
 import ChooseUs from '@/components/ChooseUs'
 import Veiculos from "@/components/Veiculos";
 import Opinioes from "@/components/Opinioes";
-import Contato from "@/components/Contato";
+
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -22,7 +22,7 @@ export default function Home() {
   <ChooseUs/>
   <Veiculos/>
   <Opinioes/>
-  <Contato/>
+
 </div>
   )
 }

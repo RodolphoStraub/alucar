@@ -1,0 +1,29 @@
+.sobreall {
+  display: flex;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/291/546/510/road-007-aston-martin-dbs-wallpaper-preview.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 950px;
+}
+
+.sobreleft {
+  width: 70%;
+  margin-left: 15%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.sobreleft h1 {
+  font-size: 36px;
+  margin-bottom: 100px;
+  color: white;
+}
+
+.sobreleft p {
+  font-size: 28px;
+  margin-bottom: 60px;
+  color: white;
+}
