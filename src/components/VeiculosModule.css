@@ -40,7 +40,8 @@
 }
 
 .pricebg {
-  width: 120px;
+  width:120px;
+  border-radius: 10px;
   background-color: rgb(230, 198, 60);
   padding: 10px;
 }
@@ -75,5 +76,5 @@
 .carimage {
   margin-top: 35px;
   width: 325px;
-  height: 190px;
+  height: 170px;
 }
