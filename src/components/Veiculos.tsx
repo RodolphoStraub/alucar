@@ -81,7 +81,7 @@ function Veiculos({}: Props) {
             img="https://img.olx.com.br/images/49/490274473739773.jpg"
           />
            <Cardscar
-            carname="Uno"
+            carname="Corvette"
             price="R$999/dia"
             text="2 assentos"
             text2="2 portas"
