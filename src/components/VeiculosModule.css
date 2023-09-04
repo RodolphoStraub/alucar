@@ -8,12 +8,13 @@
 .veiculotitle {
   display: flex;
   justify-content: center;
+  font-size: 20px;
   color: rgb(230, 198, 60);
 }
 
 .titlecars {
-  margin-top: 80px;
-  margin-bottom: 80px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .carcards {
